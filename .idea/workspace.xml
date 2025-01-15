@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44a567be-9380-4836-a598-3ebf19a2d608" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/biomes/Biome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/biomes/Cave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/biomes/CaveEntrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/biomes/Forest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/biomes/ForestEntrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/biomes/Village.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/biomes/VillageEntrance.java" afterDir="false" />
+    <list default="true" id="44a567be-9380-4836-a598-3ebf19a2d608" name="Changes" comment="#1 небольшая идейка для маленькой игры бродилки">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/game/player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +16,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -84,8 +78,17 @@
       <option name="presentableId" value="Default" />
       <updated>1736426702668</updated>
       <workItem from="1736426703825" duration="6905000" />
-      <workItem from="1736754107925" duration="4995000" />
+      <workItem from="1736754107925" duration="5334000" />
+      <workItem from="1736920848704" duration="2314000" />
     </task>
+    <task id="LOCAL-00001" summary="#1 небольшая идейка для маленькой игры бродилки">
+      <created>1736778910446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736778910446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#1 небольшая идейка для маленькой игры бродилки" />
+    <option name="LAST_COMMIT_MESSAGE" value="#1 небольшая идейка для маленькой игры бродилки" />
   </component>
 </project>
